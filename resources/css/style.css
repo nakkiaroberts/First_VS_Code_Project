@@ -1,9 +1,19 @@
 h1 {
   text-align: center;
-  color: blue;
+  color: rgb(57, 57, 160);
+}
+
+h2 {
+  margin: 15px;
 }
 
 img {
   width: 100%;
   height: auto;
+}
+
+p {
+  margin: 15px;
+  text-align: center;
+  /* font-weight: bold; */
 }
